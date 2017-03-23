@@ -16,7 +16,7 @@ Feel free to check out my [GitHub](https://github.com/colinfike)
 for some projects I've worked on, some of them are up on AWS such
 as:
 
-[Ploosic](https://ploosic.com) - Store and play SoundCloud/YouTube tracks on the same playlist with a single player
+[Ploosic](https://ploosic.com/playlists/1) - Store and play SoundCloud/YouTube tracks on the same playlist with a single player
 
 [Markovky](https://markovky.com) - Generate sentences using a markov chain created from a user's tweets
 
