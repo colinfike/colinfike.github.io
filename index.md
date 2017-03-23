@@ -14,7 +14,7 @@ I tend to gravitate more to the backend side of things but enjoy the freedom
 of being full stack and being able to take care of all parts of a project.
 Feel free to check out my [GitHub](https://github.com/colinfike)
 for some projects I've worked on, some of them are up on AWS such
-as [Markovky](https://markovky.com).
+as [Ploosic](https://ploosic.com) or [Markovky](https://markovky.com).
 
 Check out my [resume](/ColinFikeResume.pdf) if you'd like to know a bit more about me or
 click any of the links in the footer below.
