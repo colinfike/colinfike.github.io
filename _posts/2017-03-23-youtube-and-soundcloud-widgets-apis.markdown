@@ -89,7 +89,7 @@ soundcloudWidget.bind SC.Widget.Events.PLAY, ->
 
 {% endhighlight %}
 
-The onPlayerStateChange function is called whenever the state of the player changes (an astute observation!) and pauses the video if it ends up the YouTube widget is playing even though the player should be paused or the soundcloud widget should be playing instead.
+The onPlayerStateChange function is called whenever the state of the player changes (an astute observation!) and pauses the video if it ends up the YouTube widget is playing even though the player should be paused or the SoundCloud widget should be playing instead.
 
 The SoundCloud widget requires that you bind a function to be called when a certain even is called, in this case the PLAY event, and pauses it accordingly.
 
