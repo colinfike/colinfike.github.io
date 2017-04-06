@@ -14,3 +14,8 @@ Outline
 7) What did I go with? Did I find SOMETHING?
 8) Whats next?
 9) Suggestions for others / resources
+
+Notes
+1) Maybe do some metrics on time for response vs company size
+2) Maybe talk about which companies wanted technicals, which ones did projects, which ones did X or Y?
+3) Cover letter, no cover letter?
