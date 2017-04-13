@@ -8,6 +8,9 @@ Notes
 1) Networking still king
 2) either be an ace or have experience
 3) Prepare for interviewers who may not understand what they are telling you
+4) Steer clear of recruiters
+5) Startsup aren't what you maybe expect
+6) Big companies are black holes (not always great)
 
 Outline
 1) Why I want to move to SF
