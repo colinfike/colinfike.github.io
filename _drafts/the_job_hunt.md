@@ -4,6 +4,11 @@ title:  "The Job Hunt"
 categories: SF silicon valley job huny
 ---
 
+Notes
+1) Networking still king
+2) either be an ace or have experience
+3) Prepare for interviewers who may not understand what they are telling you
+
 Outline
 1) Why I want to move to SF
 2) Preparation
