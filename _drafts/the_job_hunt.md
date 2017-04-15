@@ -11,6 +11,7 @@ Notes
 4) Steer clear of recruiters
 5) Startsup aren't what you maybe expect
 6) Big companies are black holes (not always great)
+7) Focus on your best skill as main focus but companies are still willing to hire otherwise
 
 Outline
 1) Why I want to move to SF
