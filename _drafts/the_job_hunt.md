@@ -12,6 +12,7 @@ Notes
 5) Startsup aren't what you maybe expect
 6) Big companies are black holes (not always great)
 7) Focus on your best skill as main focus but companies are still willing to hire otherwise
+8) Focus on learning, you want a big paycheck? That comes with being skilled/smart, focus on that first. Don't sweat it if you can't hit a top tech job immediately.
 
 Outline
 1) Why I want to move to SF
