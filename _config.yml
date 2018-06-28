@@ -16,8 +16,8 @@
 title: Colin Fike
 email: colin.fike@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  I'm Colin Fike, a software developer currently in Buffalo with a focus
-  on Ruby on Rails / Web Development.
+  I'm Colin Fike, a software engineer currently in San Francisco with a focus
+  on Fullstack / Backend Development.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: colinfike
